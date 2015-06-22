@@ -1,5 +1,5 @@
 # CKNetworkImageComponent-SDWebImage
-Implement image downloader for CKNetworkImageComponent with SDWebImage
+Implement image downloader for CKNetworkImageComponent (ComponentKit) with SDWebImage.
 
 ### Usage:
 
