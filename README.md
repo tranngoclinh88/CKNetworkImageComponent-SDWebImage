@@ -4,7 +4,7 @@ Implement image downloader for CKNetworkImageComponent with SDWebImage
 
 #Usage:
 
-// Declare image downloader as property.
+Declare image downloader as property.
 @interface IAWTimelineContext ()
 …
 @property (strong, nonatomic, readwrite) IAWCKImageDownloader *imageDownloader;
